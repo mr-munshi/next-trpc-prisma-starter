@@ -1,0 +1,13 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore files list:
+**/*.html
+**/.git
+**/.svn
+**/.hg
+**/.next
+**/node_modules
+**/next-env.d.ts
+**/tsconfig.json
