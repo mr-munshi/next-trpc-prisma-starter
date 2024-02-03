@@ -21,3 +21,12 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## API Routes
+
+```bash
+# Todo API Routes
+/api/trpc/todos.getAll
+/api/trpc/todos.add
+/api/trpc/todos.delete
+```
